@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/todo-with-classed-based-comp/static/css/main.28f0a96c.css",
+    "main.js": "/todo-with-classed-based-comp/static/js/main.047b38ac.js",
+    "static/media/back-image.svg": "/todo-with-classed-based-comp/static/media/back-image.9a861e6778e424c9d927.svg",
+    "index.html": "/todo-with-classed-based-comp/index.html",
+    "main.28f0a96c.css.map": "/todo-with-classed-based-comp/static/css/main.28f0a96c.css.map",
+    "main.047b38ac.js.map": "/todo-with-classed-based-comp/static/js/main.047b38ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28f0a96c.css",
+    "static/js/main.047b38ac.js"
+  ]
+}
